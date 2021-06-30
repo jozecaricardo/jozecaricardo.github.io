@@ -1,1 +1,1 @@
-# Aulas práticas no R para Princípios de Biogeografia (UNIPAMPA, campus São Gabriel)
+# Aulas práticas no R para Princípios de Biogeografia e Morfometria Geométrica (UNIPAMPA, campus São Gabriel)
